@@ -1,7 +1,7 @@
 # Hi 👋 I'm Isuru Dulanjaya
 
 💻 Full Stack Developer  
-🚀 Building Clinic Management Systems & E-commerce Platforms  
+🚀 Building Business Management Systems & E-commerce Platforms  
 📱 Developing React Native Mobile Applications  
 
 ---
