@@ -1,4 +1,4 @@
-# Hi 👋 I'm Isuru Dulanjaya
+# Hi 👋 I'm Isuru Dulanjaya Rathnayake
 
 💻 Full Stack Developer  
 🚀 Building Business Management Systems & E-commerce Platforms  
