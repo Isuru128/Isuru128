@@ -8,6 +8,6 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,expo,nodejs,mongodb,mysql,supabase,js,html,css,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,supabase,js,html,css,tailwind,github" />
 
 ---
