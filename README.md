@@ -54,15 +54,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isuru128&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuru128&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Isuru128">Isuru Dulanjaya</a> — Always open to exciting collaborations and tech discussions!</i>
+  <i>⭐️ From <a href="https://github.com/Isuru128">Isuru Rathnayake</a> — Always open to exciting collaborations and tech discussions!</i>
 </p>
