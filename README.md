@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:isurudula28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/isuru-dulanjaya-rathnayake"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Isuru128"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 
 #### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" alt="Frontend Tech" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux" alt="Frontend Tech" />
 </p>
 
 #### ⚙️ Backend & APIs
@@ -39,7 +39,7 @@
 
 #### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,android,flutter" alt="Mobile Tech" />
+  <img src="https://skillicons.dev/icons?i=react,flutter" alt="Mobile Tech" />
 </p>
 
 #### 🗄️ Databases & Cloud
