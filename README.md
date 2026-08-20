@@ -27,14 +27,14 @@
 
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux" alt="Frontend Tech" />
-</p>
-
 #### ⚙️ Backend & APIs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" alt="Backend Tech" />
+</p>
+
+#### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux" alt="Frontend Tech" />
 </p>
 
 #### 📱 Mobile Development
