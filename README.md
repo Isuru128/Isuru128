@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,react,js,ts,html,css,tailwind,redux,mysql,mongodb,postgres,supabase,aws,git,github,postman,docker,kubernetes,idea,vscode,androidStudio,figma,vercel,grafana,swagger,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,react,js,ts,html,css,tailwind,redux,mysql,mongodb,postgres,supabase,aws,git,github,postman,docker,kubernetes,idea,vscode,jenkins,figma,vercel,grafana,npm,linux" alt="Tech Stack" />
 </p>
 
 ---
