@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Isuru128">Isuru Rathnayake</a> — Always open to exciting collaborations and tech discussions!</i>
+  <i>Always open to exciting collaborations and tech discussions!</i>
 </p>
